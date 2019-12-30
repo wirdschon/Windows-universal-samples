@@ -5,6 +5,9 @@
 
 # XAML Controls Gallery (aka XamlUiBasics)
 
+The XAML Controls Gallery has [moved to its own repo](https://github.com/Microsoft/Xaml-Controls-Gallery) for Windows 10 1803+.
+
+
 Shows all of the XAML controls in an interactive format. This app is the interactive companion to the [Windows Style Guide](https://getfluentdesign.com/).
 
 > **Note:** This sample is part of a large collection of UWP feature samples. 
