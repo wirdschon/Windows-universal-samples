@@ -4,6 +4,12 @@
 
 # Universal Windows Platform (UWP) app samples
 
+## XAML Controls Gallery (aka XamlUiBasics)
+Shows all of the XAML controls in an interactive format.
+You find the version for [W10-1703 here](Samples/XamlUIBasics/).
+The XAML Controls Gallery has [moved to its own repo](https://github.com/Microsoft/Xaml-Controls-Gallery) for Windows 10 1803+.
+
+## Universal Windows Platform (UWP) app samples
 This repo contains the samples that demonstrate the API usage patterns for the Universal Windows Platform (UWP) in the Windows Software Development Kit (SDK) for Windows 10. These code samples were created with the Universal Windows Platform templates available in Visual Studio, and are designed to run on desktop, mobile, and future devices that support the Universal Windows Platform.
 
 > **Note:** If you are unfamiliar with Git and GitHub, you can download the entire collection as a 
