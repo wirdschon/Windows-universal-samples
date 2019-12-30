@@ -3,6 +3,11 @@
   samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=619992
 --->
 
+# XAML Controls Gallery (aka XamlUiBasics)
+
+The XAML Controls Gallery has [moved to its own repo](https://github.com/Microsoft/Xaml-Controls-Gallery) for Windows 10 1803+.
+
+
 # UI basics (XAML) sample
 
 Shows all of the XAML controls in an interactive format.
